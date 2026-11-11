@@ -25,6 +25,8 @@ _archive/
 # 嵌入前的提示词原文
 lib/default-prompt-inject.md
 default-prompt-inject.md
+# 多语言原文变体同样不进仓库
+lib/default-prompt-inject.*.md
 
 # 本机官方安装包、解包目录、拆出的压缩包
 /deepseek-harness-*.exe
@@ -32,3 +34,4 @@ default-prompt-inject.md
 /official-harness-payload.7z
 *.asar
 *.asar.bak
+*.bak
