@@ -4,7 +4,11 @@
 
 <h1 align="center">⚔️ DeepSeek Harness cybersecurity red-team tool (dsh-purge)</h1>
 
-<p align="center"><strong>Version 1.1.81</strong></p>
+<p align="center"><strong>Version 1.1.83</strong></p>
+
+<blockquote>
+  <p><strong>⚠️ This repo is a continuation fork.</strong> The original author <a href="https://github.com/YuJunZhiXue/dsh-purge">YuJunZhiXue/dsh-purge</a> deleted the upstream repo. Maintenance continues here; the code, name and prompts still belong to the original author. Full provenance, the 1.1.72–1.1.83 changelog and the attribution rules live in <a href="./FORK-NOTICE.md"><strong>FORK-NOTICE.md</strong></a>. For a byte-exact 1.1.71 archive use <a href="https://github.com/mmparko/dsh-purge">mmparko/dsh-purge</a>.</p>
+</blockquote>
 
 <p align="center">
   <em>DeepSeek Harness jailbreak: every model, swap prompts per model. Default prompt for 小码酱. Please star ⭐ If you build on this, see Attribution required.</em>

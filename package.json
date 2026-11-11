@@ -57,7 +57,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuJunZhiXue/dsh-purge.git"
+    "url": "https://github.com/Ximingyue200/dsh-purge.git"
   },
   "homepage": "https://github.com/YuJunZhiXue/dsh-purge#readme",
   "bugs": {
@@ -80,9 +80,9 @@
     },
     "install": {
       "preferred": "tarball",
-      "tarball": "https://codeload.github.com/YuJunZhiXue/dsh-purge/tar.gz/refs/heads/master",
-      "zip": "https://codeload.github.com/YuJunZhiXue/dsh-purge/zip/refs/heads/master",
-      "git": "https://github.com/YuJunZhiXue/dsh-purge.git"
+      "tarball": "https://codeload.github.com/Ximingyue200/dsh-purge/tar.gz/refs/heads/master",
+      "zip": "https://codeload.github.com/Ximingyue200/dsh-purge/zip/refs/heads/master",
+      "git": "https://github.com/Ximingyue200/dsh-purge.git"
     }
   },
   "publishConfig": {

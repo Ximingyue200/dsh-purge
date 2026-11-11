@@ -4,7 +4,11 @@
 
 <h1 align="center">⚔️ DeepSeek Harness 网络安全红队工具（dsh-purge）</h1>
 
-<p align="center"><strong>Version 1.1.81</strong></p>
+<p align="center"><strong>Version 1.1.83</strong></p>
+
+<blockquote>
+  <p><strong>⚠️ 本仓库是续作 fork。</strong>原作者 <a href="https://github.com/YuJunZhiXue/dsh-purge">YuJunZhiXue/dsh-purge</a> 已删库离场，本仓库接手后续维护，代码与署名仍全部归原作者。来历、1.1.72–1.1.83 的改动、署名要求的完整说明见 <a href="./FORK-NOTICE.md"><strong>FORK-NOTICE.md</strong></a>；想要原版 1.1.71 原样存档请用 <a href="https://github.com/mmparko/dsh-purge">mmparko/dsh-purge</a>。</p>
+</blockquote>
 
 <p align="center">
   <em>DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分</em>
